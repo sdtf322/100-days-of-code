@@ -1,2 +1,5 @@
-# 100-days-of-code
-Here will be a tracked record of my 100 days of code challenge
+# 100 Days Of Code (2024)
+
+| Day | Date | Studied | Practiced |
+| --- | --- | --- | --- |
+| 001 | Jul, 22 | | Was configuring a gradle and JVM for integrating iOS project with KMP framework |
